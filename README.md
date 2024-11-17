@@ -4,7 +4,7 @@
   - [x] 1.3 Разбиение массива на части;
  
 - Задание 2:
-  - [x] [Приложение для списка дел](url)
+  - [x] [Приложение для списка дел](https://skills-rock-test.vercel.app/)
  
 - Задание 3:
   - [x] 3.1 [Fetch API — Случайные пользователи](https://pakhomovivan.github.io/SkillsRockTest/Task_3/Task_3.1_Async/);
