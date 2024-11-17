@@ -1,0 +1,51 @@
+h1 {
+  text-align: center;
+  width: auto;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.users {
+  margin: 0 auto;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+  border-radius: 20px;
+  background: rgb(197, 197, 197);
+}
+
+.user {
+  display: flex;
+  justify-content: space-between;
+  column-gap: 30px;
+  align-items: center;
+  background: gray;
+  padding: 10px;
+  border-radius: 20px;
+  transition: 0.3s;
+  cursor: pointer;
+
+  &:hover {
+    scale: 1.1;
+  }
+
+  img {
+    width: 72px;
+    height: 72px;
+    border-radius: 20px;
+  }
+
+  a {
+    text-decoration: none;
+    color: black;
+    transition: 0.3s;
+
+    &:hover {
+      color: white;
+    }
+  }
+}
