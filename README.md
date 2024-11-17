@@ -8,7 +8,7 @@
  
 - Задание 3:
   - [x] 3.1 [Fetch API — Случайные пользователи](https://pakhomovivan.github.io/SkillsRockTest/Task_3/Task_3.1_Async/);
-  - [x] 3.2 [русель изображений](https://pakhomovivan.github.io/SkillsRockTest/Task_3/Task_3.2_Gallery/);
+  - [x] 3.2 [Карусель изображений](https://pakhomovivan.github.io/SkillsRockTest/Task_3/Task_3.2_Gallery/);
 
 - Задание 4:
   - [x] 4.1 Реализация простого калькулятора;
