@@ -49,11 +49,3 @@ const chunkArray = (arr, size) => {
 
 console.log(chunkArray([1, 2, 3, 4, 5, 6, 7, 8], 2)) // [[1, 2], [3, 4], [5, 6], [7, 8]]
 console.log(chunkArray([1, 2, 3, 4, 5, 6, 7, 8], 3)) // [[1, 2, 3], [4, 5, 6], [7, 8]]
-
-// Taks 2:
-
-// Deploy:
-
-// Taks 3:
-
-// Deploy: https://pakhomovivan.github.io/SkillsRockTest/Task%203.%20Async/
