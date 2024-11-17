@@ -1,4 +1,4 @@
-// Task 1:
+// Task 1.1:
 
 const isPalindrome = (str) => {
   const strTrim = str.replace(/\s/g, '').toLowerCase()
@@ -14,7 +14,7 @@ const isPalindrome = (str) => {
 console.log(isPalindrome('Привет'))
 console.log(isPalindrome('А роза упала на лапу Азора'))
 
-// Task 2:
+// Task 1.2:
 
 const fizzBuzz = () => {
   let count = 0
@@ -35,7 +35,7 @@ const fizzBuzz = () => {
 
 fizzBuzz()
 
-// Task 3:
+// Task 1.3:
 
 const chunkArray = (arr, size) => {
   const resArr = []
@@ -49,3 +49,11 @@ const chunkArray = (arr, size) => {
 
 console.log(chunkArray([1, 2, 3, 4, 5, 6, 7, 8], 2)) // [[1, 2], [3, 4], [5, 6], [7, 8]]
 console.log(chunkArray([1, 2, 3, 4, 5, 6, 7, 8], 3)) // [[1, 2, 3], [4, 5, 6], [7, 8]]
+
+// Taks 2:
+
+// Deploy:
+
+// Taks 3:
+
+// Deploy: https://pakhomovivan.github.io/SkillsRockTest/Task%203.%20Async/
