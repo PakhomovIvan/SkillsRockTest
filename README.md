@@ -12,7 +12,7 @@
 
 - Задание 4:
   - [x] 4.1 Реализация простого калькулятора;
-  - [x] 4.2 [Система управления библиотекой]([url](https://pakhomovivan.github.io/React-Redux-ReduxToolkit/));
+  - [x] 4.2 [Система управления библиотекой](https://pakhomovivan.github.io/React-Redux-ReduxToolkit/);
  
 - Задание 5:
   - [x] 5.1 Функция debounce;
